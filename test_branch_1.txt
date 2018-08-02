@@ -1,2 +1,2 @@
-alert("hello world")
-alert("finish")
+alert("hello world;")
+alert("finish;")
